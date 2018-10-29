@@ -1,5 +1,5 @@
-# programme12
-factorial of a number
+// # programme12
+// factorial of a number
 #include<stdio.h>
 int main()
 {
